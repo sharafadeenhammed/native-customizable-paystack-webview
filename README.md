@@ -1,6 +1,6 @@
 # native-customizable-paystack-webview is a wrapper of React-Native-Paystack-WebView 
-The reason why i did the extension is to solve the issue of not being able to close the view if paystack fails to load by making it customizable 
-By default the wbview loads in a modal and there is no way to close this modal if paystack fails to load so by passing a prop of modal = {false} then it loads the webview in a react native View component instead of a modal 
+The reason why i did  this is to solve the issue of not being able to close the view if paystack fails to load by making it customizable 
+By default the webview loads in a modal and there is no way to close this modal if paystack fails to load so by passing a prop of modal = {false} then it loads the webview in a react native View component instead of a modal 
 
 # React Native Paystack WebView
 [![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-) 
